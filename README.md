@@ -1,0 +1,1 @@
+# SmartCamera_for_object_detection_using_ML
